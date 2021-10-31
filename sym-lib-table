@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name logic)(type Legacy)(uri "C:/Data/Projects/KiCad Libraries/Schematic/logic.lib")(options "")(descr ""))
+)
