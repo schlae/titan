@@ -1,6 +1,6 @@
 # Titan Technologies Accelerator PC
 
-There's very little information available about this 1984 accelerator card designed for the IBM PC and IBM XT, but here's what I was able to cobble together from a card and a little reverse engineering work.
+There's very little information available about this 1984 accelerator card designed for the IBM PC and IBM XT, but here's what I was able to cobble together from a card and a little reverse engineering work ([Twitter thread](https://twitter.com/TubeTimeUS/status/1448104213951643649), [unrolled thread](https://threadreaderapp.com/thread/1448104213951643649.html)).
 
 Specifications
 - Designed to upgrade the IBM 5150 PC or the IBM 5160 XT
