@@ -7,7 +7,7 @@ Specifications
 - Onboard Intel 8086 running at 9.54MHz. (Twice the usual 4.77MHz clock)
 - Optional memory daughterboard supporting up to 640KB of RAM with a 16-bit data path: twice the memory bandwidth as the 8088.
 
-There is a row of jumpers running along the top of the card:
+There is a row of jumpers (SW2) running along the top of the card:
 - P: Close to enable parity on the RAM daughtercard
 - 0, 1, 2, 3, 4: Close to enable this bank of RAM on the daughtercard
 - F, S (3 each): Set three jumpers to F for fast RAM (200ns or faster), S for slow RAM (250ns or slower). All three must have the same setting. The numbers are guesses based on logic analyzer measurements.
